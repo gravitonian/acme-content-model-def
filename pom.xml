@@ -29,6 +29,12 @@
     <profiles>
     </profiles>
 
+    <scm>
+        <connection>scm:git:git@github.com:gravitonian/acme-content-model-def.git</connection>
+        <url>https://github.com/gravitonian/acme-content-model-def</url>
+        <developerConnection>scm:git:git@github.com:gravitonian/acme-content-model-def.git</developerConnection>
+    </scm>
+
     <repositories>
         <repository>
             <id>local-nexus</id>
