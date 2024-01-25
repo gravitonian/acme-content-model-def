@@ -4,7 +4,7 @@
 
     <groupId>org.acme</groupId>
     <artifactId>acme-content-model-def</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <name>ACME Content Model Platform Extension</name>
     <description>ACME Content Model Platform Extension to be included in ACME Aggregator project</description>
@@ -32,7 +32,7 @@
         <connection>scm:git:git@github.com:gravitonian/acme-content-model-def.git</connection>
         <url>https://github.com/gravitonian/acme-content-model-def</url>
         <developerConnection>scm:git:git@github.com:gravitonian/acme-content-model-def.git</developerConnection>
-      <tag>v1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <repositories>
