@@ -4,7 +4,7 @@
 
     <groupId>org.acme</groupId>
     <artifactId>acme-content-model-def</artifactId>
-    <version>1.2</version>
+    <version>1.2-SNAPSHOT</version>
 
     <name>ACME Content Model Platform Extension</name>
     <description>ACME Content Model Platform Extension to be included in ACME Aggregator project</description>
